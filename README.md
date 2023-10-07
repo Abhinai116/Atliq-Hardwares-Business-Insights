@@ -1,4 +1,4 @@
-# Atliq-Hardwares-Business-Insights
+# Atliq-Hardwares-Business-Insights - POWER BI
 **Business Insights 360**
 
 **Project Overview**
